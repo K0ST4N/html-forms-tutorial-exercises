@@ -1,0 +1,30 @@
+body {
+	background-color: rgb(3, 3, 143);
+}
+
+h1 {
+	color: white;
+	font-family: montserrat, arial, verdana;
+}
+
+.login {
+	display: inline-block;
+	justify-content: center;
+	align-items: center;
+	justify-items: center;
+	margin: 10px;
+	width: 350px;
+}
+
+input {
+	background: white;
+	border: 0 none;
+	border-radius: 3px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	width: 80%;
+	margin: 0 10%;
+}
+button {
+}
